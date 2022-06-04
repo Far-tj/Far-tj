@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Far-tj
 - 👀 I’m interested in fullstack
-- 🌱 I’m currently learning css, js
+- 🌱 I’m currently learning css, js, php, sql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
